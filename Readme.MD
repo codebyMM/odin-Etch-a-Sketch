@@ -1,2 +1,2 @@
 ## SCREENSHOTS
-![screenshots](./screenshots/1.png);
+![screenshots](./screenshots/1.png)
